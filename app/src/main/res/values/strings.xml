@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intent2</string>
+    <string name="et1">Introduce tu Nombre</string>
+    <string name="tv1">Introduce tu Nombre</string>
+    <string name="BotonEnviar">Enviar</string>
+    <string name="BotonVolver">Volver</string>
+    
+</resources>
